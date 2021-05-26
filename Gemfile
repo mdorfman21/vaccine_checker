@@ -55,3 +55,5 @@ gem 'mini_racer', platforms: :ruby
 gem "foreman", "~> 0.87.2"
 
 gem "cancancan", "~> 3.2"
+
+gem "devise", "~> 4.8"
