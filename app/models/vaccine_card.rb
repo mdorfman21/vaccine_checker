@@ -1,0 +1,2 @@
+class VaccineCard < ApplicationRecord
+end
